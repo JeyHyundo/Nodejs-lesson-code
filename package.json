@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Getting start with Node & Express",
+  "main": "app.js",
+  "scripts": {
+    "start":"nodemon app.js"
+  },
+  "keywords": [
+    "Learning",
+    "Nodejs",
+    "and",
+    "Express"
+  ],
+  "author": "Jey Hyundo",
+  "license": "JL",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
